@@ -1,0 +1,6 @@
+# Local Python environments and secrets
+robot_voice_assistant/.venv/
+robot_voice_assistant/.env
+robot_voice_assistant/__pycache__/
+robot_voice_assistant/app/__pycache__/
+*.py[cod]
